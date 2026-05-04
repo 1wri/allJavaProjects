@@ -16,6 +16,16 @@
 链接: https://pan.baidu.com/s/1jMgkKxmbcoXetZ6ZzA_6vw?pwd=bv86 提取码: bv86
 --来自百度网盘超级会员v3的分享
 
+### 扫码关注公众号 获取更多项目和编程资料
+
+关注公众号：小猿天天学习
+
+公众号ID：xzzard
+
+![img.png](img.png)
+
+
+
 ## 接毕业设计和论文
 
 ### 微信联系方式：xzxj0206  QQ：3808981644   (支持修改、 部署调试、 支持代做毕设)
